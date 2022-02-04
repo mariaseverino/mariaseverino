@@ -36,7 +36,7 @@
 
 ### :fire: GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaseverino&show_icons=true&theme=buefy" alt="mariaseverino"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaseverino&show_icons=true&theme=tokyonight" alt="mariaseverino"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaseverino&layout=compact&langs_count=7&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaseverino&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
