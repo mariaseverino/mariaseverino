@@ -32,6 +32,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=cplusplus)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=for-the-badge&logo=MySql)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insomnia)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 ![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 
