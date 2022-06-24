@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2><b>Olá, eu sou Maria Rita!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
+  <h2><b>Olá, eu sou Maria Rita!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2>
 </div>
 
 ### 👩🏽‍💻 Sobre mim
@@ -16,7 +16,7 @@
 
 -   🤝 Estou em busca de um estágio
 
--   📫 Pode me encontrar em [![Gmail Badge](https://img.shields.io/badge/-mariarsseverino@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariarsseverino@gmail.com)](mailto:mariarsseverino@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariarsseverino@gmail.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasseverino/)
 
 <p align="left">
 </p>
