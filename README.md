@@ -14,7 +14,7 @@
 
 -   🎯 Tenho o objetivo de me tornar desenvolvedora fullstack um dia
 
--   🤝 Estou em busca de um estágio
+-   🤝 Estou em busca de uma vaga como desenvolvedora
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariarsseverino@gmail.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasseverino/)
 
