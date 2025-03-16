@@ -1,50 +1,83 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/giphy.gif" width="150"/>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/giphy.gif"  />
 </div>
+
+###
 
 <div align="center">
-  <h2><b>Olá, eu sou Maria Rita!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-### 👩🏽‍💻 Sobre mim
+###
 
--   🔭 Recém formada em ciência da computação pela UFLA.
+<h1 align="center">Olá, eu sou Maria Rita! 👋</h1>
 
--   🌱 Atualmente estou focando meus estudos em React e Laravel.
+###
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariarsseverino@gmail.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasseverino/)
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">
-</p>
+###
 
-### :rocket: Tecnologias e ferramentas
+<p align="left">- 🔭 I’m working as a freelance frontend developer.<br>- 📚 I'm currently learning Next.js and Tailwind CSS.<br>- ⚡ In my free time, I enjoy playing video games and reading books and comic books.</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
-![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus)&nbsp;
-![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-<br>
+###
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=for-the-badge&logo=springboot)&nbsp;
-<br>
+<h3 align="left">🛠 Language and tools</h3>
 
-![MySql](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
-![Postgresql](https://img.shields.io/badge/postgresql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+###
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insomnia)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
-![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="30" alt="drupal logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+</div>
 
-### :fire: GitHub Analytics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaseverino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="mariaseverino"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaseverino&layout=compact&langs_count=4&theme=tokyonight"/>
-</p>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaseverino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaseverino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaseverino/mariaseverino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaseverino/mariaseverino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaseverino/mariaseverino/output/pacman-contribution-graph.svg">
+</picture>
+
+###
