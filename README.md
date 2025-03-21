@@ -15,15 +15,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a freelance frontend developer.<br>- 📚 I'm currently learning Next.js and Tailwind CSS.<br>- ⚡ In my free time, I enjoy playing video games and reading books and comic books.</p>
+<p align="left">- 🔭 Estou atuado como Desenvolvedora Frontend Freelancer.<br>- 📚 Estou aprendendo sobre Next.js e Tailwind CSS.<br>- ⚡ No meu tempo livre, eu gosto de jogar video game e ler livros e revistas em quadrinho.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tecnologias</h3>
 
 ###
 
